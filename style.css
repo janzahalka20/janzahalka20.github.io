@@ -1,2 +1,6 @@
 body {
-  background :blue;}
+  background:blue;}
+@ media(max-width:600px) {
+  body {
+    fond-size:12px;
+    background:red;
