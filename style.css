@@ -1,7 +1,7 @@
 body {
   background:blue;}
-@media(max-width:600px) {
+@media(max-width: 600px) {
   body {
-    fond-size:12px;
-    background:red;}
+    font-size:12px;
+    background: red;}
 }
